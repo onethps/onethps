@@ -14,8 +14,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/eugen-ivashina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eugen-ivashina/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+<h3 align="left">My Tech Stack:</h3>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onethps&show_icons=true&locale=en&layout=compact" alt="onethps" /></p>
 
