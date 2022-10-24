@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eughene Ivashina</h1>
 <h3 align="center">Front End Developer / Transitioning in Fullstack web dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onethps&label=Profile%20views&color=0e75b6&style=flat" alt="onethps" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onethps" alt="onethps" /></a> </p>
 
 - 🌱 I’m currently learning **React, TypeScript, MUI, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://onethps.github.io/it-inc-portfolio/](https://onethps.github.io/it-inc-portfolio/)
+- 👨‍💻 All of my projects are available at [My repositories link](https://github.com/onethps?tab=repositories)
 
 - 📫 How to reach me **onethps@gmail.com**
 
