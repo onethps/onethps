@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eughene Ivashina</h1>
+<h1 align="center">Hi 👋, I'm Eugene Ivashina</h1>
 <h3 align="center">Front End Developer / Transitioning in Fullstack web dev</h3>
 
 
