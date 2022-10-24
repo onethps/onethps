@@ -15,9 +15,8 @@
 </p>
 
 <h3 align="left">My Tech Stack:</h3>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
+<img src='https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onethps&show_icons=true&locale=en&layout=compact" alt="onethps" /></p>
 
